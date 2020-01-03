@@ -6,6 +6,13 @@ routing and reversing.
 
 Full documentation can be found here: http://django-subdomains.readthedocs.org/
 
+Installation
+------------
+
+From git::
+
+    $ pip install -e git+git://github.com/neonua/django-subdomains.git
+
 Build Status
 ------------
 
@@ -13,4 +20,4 @@ Build Status
    :target: http://travis-ci.org/tkaemming/django-subdomains
 
 Tested on Python 2.6, 2.7, 3.4 and 3.5 on their supported Django versions from
-1.4 through 1.9.
+1.4 through 2.1.
